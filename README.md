@@ -33,12 +33,6 @@
 - Verified connectivity using Cisco IOS troubleshooting commands.
 - Applied networking concepts including routing, switching, and IP addressing.
 
-🔍 **Security Audit Lab**
-- Conducted a security audit using industry security frameworks.
-- Identified vulnerabilities, risks, and control gaps.
-- Developed recommendations to improve organizational security.
-- Applied risk assessment and security auditing principles.
-
 ---
 
 ### 📜 Certifications
