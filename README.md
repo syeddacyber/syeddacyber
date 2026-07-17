@@ -45,7 +45,7 @@
 
 🏅 Google Cybersecurity Professional Certificate
 
-🏅 Cisco Introduction to Cybersecuirty
+🏅 Cisco Introduction to Cybersecurity
 
 ---
 
